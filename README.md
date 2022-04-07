@@ -2,7 +2,7 @@
 # symbiote2
  node.js sqlite3 prototype
 
- The version 2 sqlite version of application
+ The protype single-script version sqlite version of application
  node.js sqlite3 prototype - first take
 
  The simple single-script sqlite server version of application
