@@ -1,9 +1,8 @@
-# symbiote2
- node.js sqlite3 prototype - v2
-# symbiote2
- node.js sqlite3 prototype
 
- The version 2 sqlite version of application
+# symbiote2
+ node.js sqlite3 prototype - first take
+
+ The simple single-script sqlite server version of application
 
 # Welcome to Racer DataBaser 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
